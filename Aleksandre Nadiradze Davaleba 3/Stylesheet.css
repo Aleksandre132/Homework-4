@@ -1,0 +1,53 @@
+body {
+	margin-left:30px;
+}
+h1 {
+	color:lightblue;
+	display:inline;
+    margin-right:40px;
+     
+ 	margin-top:80px;
+}
+a{
+	display:inline;
+	;
+	margin-right:40px;
+	margin-top:80px;
+	font-weight:20;
+	text-decoration: none;
+
+}
+div {
+	
+
+}
+p {
+	margin-bottom:0px;
+	text-align:center;
+}
+ .datetoday {
+ 	background-color: #5012D5;
+ 	design:block;
+ 	
+ 	margin-top:30px;
+ }
+ .distancing {
+ 	margin-right:30px;
+ 	margin-top:30px;
+ }
+ .currentlink {
+ 	color:#4E6FAE;
+ }
+span {
+  height: 300px;
+  width: 700px;
+  display: inline-block;
+}
+
+
+.newsimg {
+  
+
+  margin: 0px 0px 15px 20px;
+  margin-right:25px;
+}
